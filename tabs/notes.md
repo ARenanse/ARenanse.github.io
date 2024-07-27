@@ -15,9 +15,9 @@ Following are some notes I've made with some specific questions in mind, for som
 
 ## Expository
 <!-- Here is my FoG and other notes. Here is [my FoG](/assets/notes/TheFoG.pdf). -->
-I've been making notes for my reference since quite some time. I find this habit useful as it allows me to know the topic in question quite intimately. Some of the notes below might not be complete (I write out the index of planned topics first and then fill the details), but I have been pretty regular in updating them every week. Note that they refer to each other quite frequently. All of the notes below enjoy many results and simplifications obtained from fruitful discussions with friends and teachers. Please let me know if you find any mistake!
+I've been making notes for my reference since quite some time. I find this habit useful as it allows me to know the topic in question quite intimately. Some of the notes below might not be complete (I write out the index of planned topics first and then fill the details), but I have been pretty regular in updating them every week. All of the notes below enjoy many results and simplifications obtained from fruitful discussions with friends and teachers. Please let me know if you find any mistake!
 
-I have combined all the files below in [one file here](/assets/notes/TheFoG.pdf) for proper indexing across documents. This also indexes additional topics which I wish to get around sometime.
+As these notes refer to each other quite frequently, I find it useful to compile them all at once in a single file. One drawback is that the large size presents a problem in navigation. Clickable links help, but to get something like StacksProject would be ideal, which I do not know how to do. Here is a version of combined notes in [one file](/assets/notes/TheFoG.pdf) for proper indexing across documents. This also indexes additional topics which I wish to get around sometime.
 
 * **[Algebraic Geometry](/assets/notes/individualized/Algebraic%20Geometry/FAG.pdf)** : 
 These are some ongoing notes on algebraic geometry which I've been making while reading & solving Hartshorne, Mumford-Oda and other online resources.
