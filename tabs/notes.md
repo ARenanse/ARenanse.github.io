@@ -8,7 +8,7 @@ Some notes on specefic topics/questions.
 * **[Perverse sheaves & intersection homology](/assets//notes/Others/SingSpaces.pdf)** : Notes made for the seminar by the same name that ran during Jan-May '24 at ISIB by Charanya Ravi. More details [here](https://charanyaravi.github.io/Sem2-23-24/Sem2-23-24:IH:index.html).
 * **[Strongly local constructions](/assets/notes/Others/SLConstr.pdf)** : A common generalization of normalization of an integral scheme and reducing a scheme to its reduced scheme. Both constructions can be done on rings to yield a new ring and they behave well with localization to assist in gluing. We generalize this procedure by only using the essential fact that the said construction commutes with localization.
 * **[The uniqueness of $$+$$-construction](/assets/notes/Others/PlusConst.pdf)** : Classically, higher $$K$$-groups were defined by taking the homotopy groups of $$BGLR^+$$ for a ring $$R$$. A crucial step is to show that the homotopy type $$BGLR^+$$ is unique. While the existence is well-known and can be found easily in standard references, the uniqueness requires basic facts from obstruction theory and follows from its construction. In this note, we show the existence and uniqueness of $$+$$-construction.
-* **[A generalization of Swan's theorem](/assets/notes/Others/SwanTych.pdf)** : We generalize Swan's theorem from compact-Hausdorff spaces to Tychonoff spaces (completely regular or $$T_{3\frac{1}{2}}$$).
+* **[A generalization of Swan's theorem](/assets/notes/Others/SwanTych.pdf)** : We generalize Swan's theorem from compact-Hausdorff spaces to Tychonoff spaces (completely regular or $$T_{3\frac{1}{2}}$$). Consequently, we show that on Tychonoff spaces soft bundles and stably trivial bundles are equivalent.
 
 
 
