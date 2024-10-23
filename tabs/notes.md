@@ -30,7 +30,7 @@ These are some ongoing notes on commutative algebra made from courses and Atiyah
 These notes contain some formal stuff about locally ringed spaces, sheaves and atlases, algebra of $$\mathscr{O}_X$$-modules, category of $$\mathscr{O}_X$$-modules, etc. These come in handy while discussing schemes and modules over them. Most of these are informed from Wedhorn.
 
 * **[Homotopy Theory](/assets/notes/individualized/Homotopy%20theory/FHT.pdf)** : 
-These notes started from an algebraic topology course which I audited at IISERK, in which we covered till Galois theorem for covers. I then started reading homotopy theory and added notes, primarily from May and Whitehead, and then also from the course Topology II at ISIB where we covered homology and CW-complexes. These are about 50% done.
+These are about 50% done.
 
 * **[Algebraic $$K$$-theory of rings](/assets/notes/individualized/AKT/KTheory.pdf)** : Some notes on lower $$K$$-theory and $$BGL(R)^+$$ made during the summer '24 visit to IMSc Chennai under Dr. Rahul Gupta. Something of interest here might be a proof of universal property of $$+$$-constructions using obstruction theory, which helps in proving the uniqueness of the homotopy type of $$BGL(R)^+$$.
 
