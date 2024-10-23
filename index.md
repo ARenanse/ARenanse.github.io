@@ -11,5 +11,3 @@ layout: homepage
 <img style="float: right;" width="400" 
      height="300" src="/assets/img/sun.jpg">
 Hi. I am a $$2^{\text{nd}}$$-year M.Math student at ISI Bangalore.
-
-Here is my CV.
