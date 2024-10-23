@@ -39,7 +39,7 @@ These notes were made while studying this topic under Dr. Amit Kuber during the 
 
 * **[Sheaf Theory](/assets/notes/individualized/Sheaf/sheaf.pdf)** : Notes on sheaves and their cohomology. These are fairly complete (except the Cěch-to-derived functor spectral sequence) and are used regularly in other parts.
 
-* **[Simplicial Sets](/assets/notes/individualized/Higher%20Cats/L8C.pdf)** : Some very rudimentary and incomplete notes on simplicial sets. I am planning to complete the basics as this is needed in higher algebraic $$K$$-theory.
+* **[Simplicial Sets](/assets/notes/individualized/Higher%20Cats/L8C.pdf)** : Some very rudimentary and incomplete notes on simplicial sets.
 
 * **[Homological Methods](/assets/notes/individualized/HM/HM.pdf)** : Notes on abelian categories and derived functors. I will soon add a section on derived categories as learned from perverse sheaves seminar.
 
