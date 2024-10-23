@@ -30,7 +30,7 @@ plugins:
 header_pages:
   - tabs/notes.md
   - tabs/publications.md
-  - tabs/blog.md
+#  - tabs/blog.md
   - tabs/computer.md
   
 
