@@ -18,7 +18,7 @@ Some notes on specefic topics/questions.
 <!-- Here is my FoG and other notes. Here is [my FoG](/assets/notes/TheFoG.pdf). -->
 Here are some more expository notes which cover larger areas. They are not complete and I update them regularly. I make these so that I can convince myself that I understand the given topic. Please let me know if you find any mistake!
 
-As most of these notes refer to each other, I have combined all the files below in [one file here](/assets/notes/TheFoG.pdf) for proper indexing across documents ($\sim 850$ pages).
+As most of these notes refer to each other, I have combined all the files below in [one file here](/assets/notes/TheFoG.pdf) for proper indexing across documents ($$\sim 850$$ pages).
 
 * **[Algebraic Geometry](/assets/notes/individualized/Algebraic%20Geometry/FAG.pdf)** : Notes made over the years while reading, solving and discussing theory and problems from Hartshorne and other resources.
 
