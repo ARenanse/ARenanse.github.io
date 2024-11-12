@@ -16,21 +16,18 @@ Some notes on specefic topics/questions.
 
 ## Expository
 <!-- Here is my FoG and other notes. Here is [my FoG](/assets/notes/TheFoG.pdf). -->
-Here are some more expository notes which cover larger areas. Please let me know if you find some mistake!
+Here are some more expository notes which cover larger areas. They are not complete and I update them regularly. I make these so that I can convince myself that I understand the given topic. Please let me know if you find any mistake!
 
-I have combined all the files below in [one file here](/assets/notes/TheFoG.pdf) for proper indexing across documents. This also indexes additional topics which I wish to get around sometime.
+As most of these notes refer to each other, I have combined all the files below in [one file here](/assets/notes/TheFoG.pdf) for proper indexing across documents ($\sim 850$ pages).
 
-* **[Algebraic Geometry](/assets/notes/individualized/Algebraic%20Geometry/FAG.pdf)** : 
-These are some ongoing notes on algebraic geometry which I've been making while reading & solving Hartshorne, Mumford-Oda and other online resources.
+* **[Algebraic Geometry](/assets/notes/individualized/Algebraic%20Geometry/FAG.pdf)** : Notes made over the years while reading, solving and discussing theory and problems from Hartshorne and other resources.
 
-* **[Commutative Algebra](/assets/notes/individualized/Commutative%20Algebra/CA.pdf)** :
-These are some ongoing notes on commutative algebra made from courses and Atiyah-MacDonald, Eisenbud, etc.
+* **[Commutative Algebra](/assets/notes/individualized/Commutative%20Algebra/CA.pdf)** : Made mostly simultaneously with the above to understand the algebraic side. Draws mostly from Atiyah-MacDonald and Eisenbud.
 
 * **[Foundational Geometry](/assets/notes/individualized/Foundational%20Geometry/FG.pdf)** : 
-These notes contain some formal stuff about locally ringed spaces, sheaves and atlases, algebra of $$\mathscr{O}_X$$-modules, category of $$\mathscr{O}_X$$-modules, etc. These come in handy while discussing schemes and modules over them. Most of these are informed from Wedhorn.
+These notes contain some formal topics about locally ringed spaces, sheaves and atlases, algebra of $$\mathscr{O}_X$$-modules, category of $$\mathscr{O}_X$$-modules, etc. These are useful while discussing schemes and modules over them. Most of these are informed from Wedhorn.
 
-* **[Homotopy Theory](/assets/notes/individualized/Homotopy%20theory/FHT.pdf)** : 
-These are about 50% done.
+* **[Homotopy Theory](/assets/notes/individualized/Homotopy%20theory/FHT.pdf)** : Combines course notes from many courses taken at IISERK and ISIB, apart from self study.
 
 * **[Algebraic $$K$$-theory of rings](/assets/notes/individualized/AKT/KTheory.pdf)** : Some notes on lower $$K$$-theory and $$BGL(R)^+$$ made during the summer '24 visit to IMSc Chennai under Dr. Rahul Gupta. Something of interest here might be a proof of universal property of $$+$$-constructions using obstruction theory, which helps in proving the uniqueness of the homotopy type of $$BGL(R)^+$$.
 
@@ -47,7 +44,9 @@ These notes were made while studying this topic under Dr. Amit Kuber during the 
 
 * **[Riemann Surfaces](/assets/notes/individualized/CA/RS.pdf)** : Some notes I made for Riemann surfaces seminar at ISIB which ran around the end of complex analysis course. Goal is to reach Riemann-Roch theorem. These are far from complete.
 
-* **[Abstract Analysis](/assets/notes/individualized/AA/AA.pdf)** : Notes on measure theory and functional analysis with solutions to many exercises. Made while taking the courses under the same name at ISIB. 
+* **[Abstract Analysis](/assets/notes/individualized/AA/AA.pdf)** : Notes on measure theory and functional analysis which mostly just contains solutions to many exercises solved during the course. Made while taking the courses under the same name at ISIB.
+
+* **[Nine Weeks of Fields & Galois Theory](/assets/notes/individualized/FGT/FGT.pdf)** : Solutions to assignment problems for advanced group theory, fields and Galois theory for the Algebra-II course at ISIB.
 
 * **[Ordinary Differential Equations](/assets/notes/individualized/ODE/CODE.pdf)** : Notes for the course by the same name at IISERK. Contains an exposition of initial value problems and linearization of autonomous systems. 
 
