@@ -10,4 +10,4 @@ layout: homepage
 
 <img style="float: right;" width="400" 
      height="300" src="/assets/img/sun.jpg">
-Hi. I am a $$2^{\text{nd}}$$-year M.Math student at ISI Bangalore. Here's my [CV](/assets/AcadCV.pdf)
+Hi. I am a $$2^{\text{nd}}$$-year M.Math student at ISI Bangalore. Here's my [CV](/assets/AcadCV.pdf).
