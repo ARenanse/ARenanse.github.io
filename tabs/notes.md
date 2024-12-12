@@ -36,6 +36,8 @@ These notes were made while studying this topic under Dr. Amit Kuber during the 
 
 * **[Sheaf Theory](/assets/notes/individualized/Sheaf/sheaf.pdf)** : Notes on sheaves and their cohomology. These are fairly complete (except the Cěch-to-derived functor spectral sequence) and are used regularly in other parts.
 
+* **[Vector Bundles & Characteristic Classes](/assets/notes/individualized/VB/VB.pdf)** : Notes made while attending the special topics course on the same topic taught by Dr. Manish Kumar. I will continue completing it in the next semester's seminar on algebraic topology.
+
 * **[Simplicial Sets](/assets/notes/individualized/Higher%20Cats/L8C.pdf)** : Some very rudimentary and incomplete notes on simplicial sets.
 
 * **[Homological Methods](/assets/notes/individualized/HM/HM.pdf)** : Notes on abelian categories and derived functors. I will soon add a section on derived categories as learned from perverse sheaves seminar.
@@ -48,6 +50,8 @@ These notes were made while studying this topic under Dr. Amit Kuber during the 
 
 * **[Nine Weeks of Fields & Galois Theory](/assets/notes/individualized/FGT/FGT.pdf)** : Solutions to assignment problems for advanced group theory, fields and Galois theory for the Algebra-II course at ISIB.
 
+* **[Problems on Vector Bundles & Characteristic Classes](/assets/notes/individualized/VB/Combined.pdf)** : Solutions to weekly assignment problems for the special topics course on this topic. Most problems are from Milnor & Stasheff.
+ 
 * **[Ordinary Differential Equations](/assets/notes/individualized/ODE/CODE.pdf)** : Notes for the course by the same name at IISERK. Contains an exposition of initial value problems and linearization of autonomous systems. 
 
 
