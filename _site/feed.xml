@@ -1,7 +1,91 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-07-27T15:43:01+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Animesh Renanse</title><subtitle>M.Math at Indian Statistical Institute Bangalore, 8th Mile, Mysore Rd, RVCE Post,   Bengaluru, Karnataka 560059.
-</subtitle><author><name>Animesh Renanse</name><email>arenanse@gmail.com</email></author><entry><title type="html">Algebraic K-theory : The K-theory spectrum</title><link href="http://localhost:4000/2024/07/17/Algebraic-K-theory-Q-construction.html" rel="alternate" type="text/html" title="Algebraic K-theory : The K-theory spectrum" /><published>2024-07-17T00:00:00+05:30</published><updated>2024-07-17T00:00:00+05:30</updated><id>http://localhost:4000/2024/07/17/Algebraic-K-theory-Q-construction</id><content type="html" xml:base="http://localhost:4000/2024/07/17/Algebraic-K-theory-Q-construction.html"><![CDATA[<p>Continuing the posts on \(K\)-theory, I’ll like to talk about the next step after \(BGL(R)^+\), that is, the \(Q\)-construction. It is only using this and the famous \(+=Q\)-theorem that we’ll be able to talk about \(K\)-theory of rings and schemes together.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-28T11:58:54+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Animesh Renanse</title><subtitle>M.Math at Indian Statistical Institute Bangalore, 8th Mile, Mysore Rd, RVCE Post,   Bengaluru, Karnataka 560059.
+</subtitle><author><name>Animesh Renanse</name><email>arenanse@gmail.com</email></author><entry><title type="html">Seminar on characteristic classes</title><link href="http://localhost:4000/2025/01/20/Seminar-on-Characteristic-Classes.html" rel="alternate" type="text/html" title="Seminar on characteristic classes" /><published>2025-01-20T00:00:00+05:30</published><updated>2025-01-20T00:00:00+05:30</updated><id>http://localhost:4000/2025/01/20/Seminar%20on%20Characteristic%20Classes</id><content type="html" xml:base="http://localhost:4000/2025/01/20/Seminar-on-Characteristic-Classes.html"><![CDATA[<p>This is a seminar on vector bundles and characteristic classes based on the second part of the book by Milnor and Stasheff. In Fall ‘24, we covered the first half of the book in a special topics course (till Wu’s formula in the chapter “Computations in a Smooth Manifold”) conducted by <a href="https://www.isibang.ac.in/~manish/">Dr. Manish Kumar</a>. Our goal in this seminar is to reach Thom’s theory on transversality and in particular study the first computation of the homotopy groups of a spectrum</p>
 
-<h2 id="classifying-space-of-a-category">Classifying space of a category</h2>
-<p>Recall the for a category \(\mathscr{C}\) its nerve is defined as a simplicial set \(N\mathscr{C}\) whose \(n\)-simplices are given by the \(n\)-long string of arrows \(a_0\to a_1 \to \dots \to a_n\). The face map \(d_i : N\mathscr{C}_n \to N\mathscr{C}_{n-1}\) omits the \(i^\text{th}\)-term.</p>]]></content><author><name>Animesh Renanse</name><email>arenanse@gmail.com</email></author><summary type="html"><![CDATA[Continuing the posts on \(K\)-theory, I’ll like to talk about the next step after \(BGL(R)^+\), that is, the \(Q\)-construction. It is only using this and the famous \(+=Q\)-theorem that we’ll be able to talk about \(K\)-theory of rings and schemes together.]]></summary></entry><entry><title type="html">First Post</title><link href="http://localhost:4000/2024/07/10/First-post.html" rel="alternate" type="text/html" title="First Post" /><published>2024-07-10T00:00:00+05:30</published><updated>2024-07-10T00:00:00+05:30</updated><id>http://localhost:4000/2024/07/10/First-post</id><content type="html" xml:base="http://localhost:4000/2024/07/10/First-post.html"><![CDATA[<p>I wish I could’ve started making blog posts earlier. Usually I only used to follow my ideas when I am free so that I can type them in Latex to present. But with this, things might be a bit easy.</p>]]></content><author><name>Animesh Renanse</name><email>arenanse@gmail.com</email></author><summary type="html"><![CDATA[I wish I could’ve started making blog posts earlier. Usually I only used to follow my ideas when I am free so that I can type them in Latex to present. But with this, things might be a bit easy.]]></summary></entry><entry><title type="html">Homological Arithmetic</title><link href="http://localhost:4000/2024/07/10/Homological-Arithmetic.html" rel="alternate" type="text/html" title="Homological Arithmetic" /><published>2024-07-10T00:00:00+05:30</published><updated>2024-07-10T00:00:00+05:30</updated><id>http://localhost:4000/2024/07/10/Homological-Arithmetic</id><content type="html" xml:base="http://localhost:4000/2024/07/10/Homological-Arithmetic.html"><![CDATA[<p>Homological Arithmetic.</p>]]></content><author><name>Animesh Renanse</name><email>arenanse@gmail.com</email></author><summary type="html"><![CDATA[Homological Arithmetic.]]></summary></entry><entry><title type="html">Strongly Local Constructions</title><link href="http://localhost:4000/2024/07/10/Strongly-Local-Constructions.html" rel="alternate" type="text/html" title="Strongly Local Constructions" /><published>2024-07-10T00:00:00+05:30</published><updated>2024-07-10T00:00:00+05:30</updated><id>http://localhost:4000/2024/07/10/Strongly-Local-Constructions</id><content type="html" xml:base="http://localhost:4000/2024/07/10/Strongly-Local-Constructions.html"><![CDATA[<p>Strongly local constructions.</p>]]></content><author><name>Animesh Renanse</name><email>arenanse@gmail.com</email></author><summary type="html"><![CDATA[Strongly local constructions.]]></summary></entry><entry><title type="html">Algebraic K-theory: Uniqueness of plus-construction</title><link href="http://localhost:4000/2024/07/10/Uniqueness-of-plus-construction.html" rel="alternate" type="text/html" title="Algebraic K-theory: Uniqueness of plus-construction" /><published>2024-07-10T00:00:00+05:30</published><updated>2024-07-10T00:00:00+05:30</updated><id>http://localhost:4000/2024/07/10/Uniqueness-of-plus-construction</id><content type="html" xml:base="http://localhost:4000/2024/07/10/Uniqueness-of-plus-construction.html"><![CDATA[<p>This is part of a series of blog posts on algebraic \(K\)-theory.</p>
+\[\Omega_n^{SO} \cong \pi_n^s(MSO).\]
 
-<p>One of the first construction of higher \(K\)-theory for rings was via the +-construction. The goal is to kill a perfect normal subgroup of the fundamental group while not changing the homology with any coefficient system.</p>]]></content><author><name>Animesh Renanse</name><email>arenanse@gmail.com</email></author><summary type="html"><![CDATA[This is part of a series of blog posts on algebraic \(K\)-theory.]]></summary></entry><entry><title type="html">When are homology groups homotopy groups of some space?</title><link href="http://localhost:4000/2024/07/10/When-are-homology-groups-homotopy-groups-of-some-space.html" rel="alternate" type="text/html" title="When are homology groups homotopy groups of some space?" /><published>2024-07-10T00:00:00+05:30</published><updated>2024-07-10T00:00:00+05:30</updated><id>http://localhost:4000/2024/07/10/When-are-homology-groups-homotopy-groups-of-some-space</id><content type="html" xml:base="http://localhost:4000/2024/07/10/When-are-homology-groups-homotopy-groups-of-some-space.html"><![CDATA[<p>We might as well call the question, “why are people interested in stable homotopy theory?”!</p>]]></content><author><name>Animesh Renanse</name><email>arenanse@gmail.com</email></author><summary type="html"><![CDATA[We might as well call the question, “why are people interested in stable homotopy theory?”!]]></summary></entry></feed>
+<p>The list of speakers and their topics is listed below. Also, here are some <a href="/assets/notes/individualized/VB/VB.pdf">notes</a> from previous course and this seminar.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Title</th>
+      <th>Speaker</th>
+      <th>Abstract</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>27th Jan, 25</td>
+      <td>Overview of characterestic classes and vector bundles</td>
+      <td>Dr. Manish Kumar</td>
+      <td>In this introductory talk, Dr. Manish will review some of the topics covered in the course on characteristic classes &amp; vector bundles.</td>
+    </tr>
+    <tr>
+      <td>3rd Feb, 25</td>
+      <td>Complex manifolds and complex bundles</td>
+      <td>Shubham Sharma</td>
+      <td>In this talk we will cover the following topics and questions. What are complex vector bundles. Quick review of how new vector bundles are constructed from existing ones as done in the real bundle case. Complex vector bundles obtained by associating a complex structure to a \(2n\)-dimension real vector bundle. Holomorphicity and complex manifolds defined from the perspective of tangent bundles. Discussion on problems 13D-13G of Milnor-Stasheff, subject to availability of time.</td>
+    </tr>
+    <tr>
+      <td>10th Feb, 25</td>
+      <td>Chern classes-I</td>
+      <td>Animesh Renanse</td>
+      <td>Stiefel-Whitney classes are important invariants of a real \(n\)-plane bundle. On one hand, they classify bordism classes and on the other, they generate the cohomology of real Grassmannian. In an attempt to repeat the same story for complex \(n\)-plane bundles, we will study Chern classes. In this talk, we will construct them using an inductive use of Gysin sequence and Euler class. In light of the similarity of their role in the real counterpart, we will end with the calculation that cohomology ring of complex Grassmannian is indeed the polynomial algebra on Chern classes of canonical bundle.</td>
+    </tr>
+    <tr>
+      <td>17th Feb, 25</td>
+      <td>No Talk (Midsem)</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>24th Feb, 25</td>
+      <td>Chern classes-II</td>
+      <td>Animesh Renanse</td>
+      <td>After a brief review of construction of Chern classes, we will complete the calculation of cohomology ring of infinite complex Grassmannian.</td>
+    </tr>
+    <tr>
+      <td>3rd March, 25</td>
+      <td>Chern classes-III</td>
+      <td>Srigyan Nandi</td>
+      <td>We conclude our discussion on Chern classes by looking at some results analogous with those of Steifel-Whitney classes. We compute the Chern classes of direct sums and conjugate  bundles. We end by considering the case of tangent bundles over complex projective spaces. Throughout the talk, we make use of the description of the cohomology and Chern classes of the complex Grassmanian.</td>
+    </tr>
+    <tr>
+      <td>10th March, 25</td>
+      <td>Pontryagin classes</td>
+      <td>Samanyu Khosla</td>
+      <td>In this talk we will briefly go over the definition and properties of Pontrjagin classes of real and complex bundles. Using these we will compute the cohomology of the oriented Grassmann manifold over integral domains containing 1/2, (e.g. \(\mathbb{Z}[1/2]\), \(\mathbb{Q}\), etc.) in terms of its Pontrjagin classes. If time permits, we will also go over problem 14-B, which establishes that Chern classes map to Stiefel-Whitney classes via the appropriate coefficient homomorphism.</td>
+    </tr>
+    <tr>
+      <td>17th March, 25</td>
+      <td>Chern and Pontryagin numbers</td>
+      <td>Raushan Toor Nair</td>
+      <td>In this talk, we look at Chern numbers, Pontrjagin numbers, and the various properties they satisfy.</td>
+    </tr>
+    <tr>
+      <td>24th March, 25</td>
+      <td>The oriented cobordism ring</td>
+      <td>Animesh Renanse</td>
+      <td>When do two compact oriented manifolds appear as boundary of one higher dimensional oriented manifold with boundary? The equivalence classes of \(n\)-manifolds under this relation is the \(n^\text{th}\)-oriented cobordism group \(\Omega_n^{SO}\). An important theorem of Thom shows that this group is in-fact the \(n+k\)-homotopy group of the Thom space of oriented \(k\)-plane bundle over oriented real Grassmannian of \(k\)-planes, for any \(k&gt;n+1\). This was the first instance of calculation of what is now called the homotopy groups of a spectrum (in this case, the oriented real Thom spectrum \(MSO\)), that is, \(\Omega_n^{SO} \cong \pi_n(MSO)\). The goal of the rest of the seminar is to discuss this result of Thom in greater detail. In this talk, after discussing basics of manifolds with boundary, we define oriented cobordism group and ring structure that it inherits. We end with some applications of Pontryagin numbers in finding linearly independent elements in the oriented cobordism ring.</td>
+    </tr>
+    <tr>
+      <td>31st March, 25</td>
+      <td>Thom spaces &amp; transversality-I</td>
+      <td>Shubham Sharma</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>7th April, 25</td>
+      <td>Thom spaces &amp; transversality-II</td>
+      <td>Srigyan Nandi</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>14th April, 25</td>
+      <td>Extra Topic</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>Animesh Renanse</name><email>arenanse@gmail.com</email></author><summary type="html"><![CDATA[This is a seminar on vector bundles and characteristic classes based on the second part of the book by Milnor and Stasheff. In Fall ‘24, we covered the first half of the book in a special topics course (till Wu’s formula in the chapter “Computations in a Smooth Manifold”) conducted by Dr. Manish Kumar. Our goal in this seminar is to reach Thom’s theory on transversality and in particular study the first computation of the homotopy groups of a spectrum]]></summary></entry></feed>

@@ -1,0 +1,26 @@
+---
+layout: post
+---
+This is a seminar on vector bundles and characteristic classes based on the second part of the book by Milnor and Stasheff. In Fall '24, we covered the first half of the book in a special topics course (till Wu's formula in the chapter "Computations in a Smooth Manifold") conducted by [Dr. Manish Kumar](https://www.isibang.ac.in/~manish/). Our goal in this seminar is to reach Thom's theory on transversality and in particular study the first computation of the homotopy groups of a spectrum
+
+$$
+\Omega_n^{SO} \cong \pi_n^s(MSO).
+$$
+
+The list of speakers and their topics is listed below. Also, here are some [notes](/assets/notes/individualized/VB/VB.pdf) from previous course and this seminar.
+
+|Date |	Title |	Speaker | Abstract |
+|-----|-------|---------|----------|
+|27th Jan, 25 |	Overview of characterestic classes and vector bundles |	Dr. Manish Kumar | In this introductory talk, Dr. Manish will review some of the topics covered in the course on characteristic classes & vector bundles.|
+|3rd Feb, 25 |	Complex manifolds and complex bundles |	Shubham Sharma|In this talk we will cover the following topics and questions. What are complex vector bundles. Quick review of how new vector bundles are constructed from existing ones as done in the real bundle case. Complex vector bundles obtained by associating a complex structure to a $$2n$$-dimension real vector bundle. Holomorphicity and complex manifolds defined from the perspective of tangent bundles. Discussion on problems 13D-13G of Milnor-Stasheff, subject to availability of time.|
+|10th Feb, 25|	Chern classes-I |	Animesh Renanse|Stiefel-Whitney classes are important invariants of a real $$n$$-plane bundle. On one hand, they classify bordism classes and on the other, they generate the cohomology of real Grassmannian. In an attempt to repeat the same story for complex $$n$$-plane bundles, we will study Chern classes. In this talk, we will construct them using an inductive use of Gysin sequence and Euler class. In light of the similarity of their role in the real counterpart, we will end with the calculation that cohomology ring of complex Grassmannian is indeed the polynomial algebra on Chern classes of canonical bundle.|
+|17th Feb, 25 |	No Talk (Midsem)|	|
+|24th Feb, 25 |	Chern classes-II |	Animesh Renanse| After a brief review of construction of Chern classes, we will complete the calculation of cohomology ring of infinite complex Grassmannian. |
+|3rd March, 25 |	Chern classes-III |	Srigyan Nandi| We conclude our discussion on Chern classes by looking at some results analogous with those of Steifel-Whitney classes. We compute the Chern classes of direct sums and conjugate  bundles. We end by considering the case of tangent bundles over complex projective spaces. Throughout the talk, we make use of the description of the cohomology and Chern classes of the complex Grassmanian. |
+|10th March, 25 |	Pontryagin classes |	Samanyu Khosla| In this talk we will briefly go over the definition and properties of Pontrjagin classes of real and complex bundles. Using these we will compute the cohomology of the oriented Grassmann manifold over integral domains containing 1/2, (e.g. $$\mathbb{Z}[1/2]$$, $$\mathbb{Q}$$, etc.) in terms of its Pontrjagin classes. If time permits, we will also go over problem 14-B, which establishes that Chern classes map to Stiefel-Whitney classes via the appropriate coefficient homomorphism.|
+|17th March, 25 |	Chern and Pontryagin numbers |	Raushan Toor Nair| In this talk, we look at Chern numbers, Pontrjagin numbers, and the various properties they satisfy.|
+|24th March, 25	|The oriented cobordism ring	|Animesh Renanse| When do two compact oriented manifolds appear as boundary of one higher dimensional oriented manifold with boundary? The equivalence classes of $$n$$-manifolds under this relation is the $$n^\text{th}$$-oriented cobordism group $$\Omega_n^{SO}$$. An important theorem of Thom shows that this group is in-fact the $$n+k$$-homotopy group of the Thom space of oriented $$k$$-plane bundle over oriented real Grassmannian of $$k$$-planes, for any $$k>n+1$$. This was the first instance of calculation of what is now called the homotopy groups of a spectrum (in this case, the oriented real Thom spectrum $$MSO$$), that is, $$ \Omega_n^{SO} \cong \pi_n(MSO)$$. The goal of the rest of the seminar is to discuss this result of Thom in greater detail. In this talk, after discussing basics of manifolds with boundary, we define oriented cobordism group and ring structure that it inherits. We end with some applications of Pontryagin numbers in finding linearly independent elements in the oriented cobordism ring.|
+|31st March, 25 |	Thom spaces & transversality-I |	Shubham Sharma | |
+|7th April, 25 | Thom spaces & transversality-II |	Srigyan Nandi | |
+|14th April, 25 | Extra Topic	| |
+
