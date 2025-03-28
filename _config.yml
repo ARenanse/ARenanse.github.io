@@ -30,9 +30,14 @@ plugins:
 header_pages:
   - tabs/notes.md
   - tabs/publications.md
-#  - tabs/blog.md
+  - tabs/blog.md
   - tabs/computer.md
   
+# parse:
+#   myst_enable_extensions:
+#     # don't forget to list any other extensions you want enabled,
+#     # including those that are enabled by default!
+#     - amsmath
 
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: true
