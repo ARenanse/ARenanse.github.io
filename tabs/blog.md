@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Mathematical blog
+title: Seminars
 ---
 
