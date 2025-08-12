@@ -5,9 +5,8 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-    M.Math at Indian Statistical Institute Bangalore,
-    8th Mile, Mysore Rd, RVCE Post,  
-    Bengaluru, Karnataka 560059.
+    Department of Mathematics, UCSC,
+    1156 High St, Santa Cruz, CA 95064, USA.
 # Build settings
 # Indian Statistical Institute Bangalore, 
 # If you clone the Minima repo and build locally, use this setting.
