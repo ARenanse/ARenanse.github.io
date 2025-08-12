@@ -8,6 +8,6 @@
 layout: homepage
 ---
 
-<img style="float: right;" width="400" 
-     height="300" src="/assets/img/sun.jpg">
+<img style="float: right;" width="300" 
+     height="200" src="/assets/img/sun.jpg">
 Hi. I am an incoming Mathematics PhD student at University of California, Santa Cruz. Here's my [CV](/assets/AcadCV.pdf).
