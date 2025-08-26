@@ -4,9 +4,11 @@ author:
   email: arenanse@gmail.com
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-    Department of Mathematics, UCSC,
-    1156 High St, Santa Cruz, CA 95064, USA.
+description: |-
+    University of California--Santa Cruz,
+    Department of Mathematics,
+    1156 High Street,
+    Santa Cruz, CA 95064
 # Build settings
 # Indian Statistical Institute Bangalore, 
 # If you clone the Minima repo and build locally, use this setting.
