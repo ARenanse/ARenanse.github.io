@@ -12,4 +12,4 @@ layout: homepage
      height="250" src="/assets/img/sun.jpg">
 Hi. I am second year Mathematics PhD student at University of California, Santa Cruz. 
 
-# Here's my [CV](/assets/AcadCV.pdf).
+Here's my [CV](/assets/AcadCV.pdf).
